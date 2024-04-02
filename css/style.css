@@ -163,6 +163,11 @@ body {
 
 }
 
+.product-img {
+  width: 100%;
+  min-height: 260px;
+}
+
 .mid-text {
   text-align: center;
 }
